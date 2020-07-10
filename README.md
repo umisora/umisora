@@ -5,12 +5,38 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on ...
+
+Fintech Venture Company 
+
+
+🌱 I’m currently learning ...
+
+
+* 新規ビジネス企画
+* 機械学習 & BizML
+* アジャイル＆スクラム開発
+
+
+📫 How to reach me: ...
+
+I'm live in Kyoto.
+
+- [LinkedIn](https://www.linkedin.com/in/umisora/)
+- [Twitter](https://twitter.com/umisora__)
+
+💬 Ask me about ...
+
+  - Infrastructure Enginner
+  - Cloud Enginner
+  - Manager / ProjectManager
+  - Scrum Master
+
