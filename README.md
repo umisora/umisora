@@ -35,8 +35,10 @@ I'm live in Kyoto.
 
 💬 Ask me about ...
 
-  - Infrastructure Enginner
-  - Cloud Enginner
-  - Manager / ProjectManager
-  - Scrum Master
+  - Infrastructure Enginner 💻
+  - Cloud Enginner ☁️
+  - Manager / ProjectManager 📈
+  - Scrum Master 🎵
+  - Product Manager ( CPO ) 🆕 from 2021
+  - Founder of New Business under my main company 🕴️
 
